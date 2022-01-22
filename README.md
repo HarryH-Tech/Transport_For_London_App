@@ -3,7 +3,6 @@
 **This app allows the user to sign up/login to a site and then find pollution levels, show nearby taxis on a map along with information about them and plan a trip to/from London using the TFL API found [here](https://api.tfl.gov.uk).<br /><br />It uses Node.js on the server side and React and React Router on the client side, along with Tailwind-CSS for the styling.<br/><br/>Other npm packages used include:**
 
 - react-moment
-- react-particles-webgl
 - react-datepicker
 - google-maps-react
 - axios
