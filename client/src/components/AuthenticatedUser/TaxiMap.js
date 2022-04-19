@@ -97,6 +97,7 @@ class TaxiMap extends Component {
       )
 
       .then((res) => {
+        console.log(res)
         res.data.Operators.OperatorList.map((taxi) => {
           this.setState({
             taxis: this.state.taxis.concat({
